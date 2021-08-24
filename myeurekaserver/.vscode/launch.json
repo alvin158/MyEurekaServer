@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-MyeurekaserverApplication<myeurekaserver>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "sg.edu.iss.myeurekaserver.MyeurekaserverApplication",
+      "projectName": "myeurekaserver",
+      "args": ""
+    }
+  ]
+}
